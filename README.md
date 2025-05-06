@@ -1,5 +1,7 @@
 # Stock Index Viewer
 
+[View the live demo here](https://sadnyani-4.github.io/stock-index-viewer/)
+
 A simple web page that displays stock index data fetched from a `dump.csv` file. Users can view charts of different stock indices and interact with them using zoom and pan features. A search functionality is also included to easily find specific stock indices.
 
 ## Setup Instructions
