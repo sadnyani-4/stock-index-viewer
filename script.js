@@ -78,10 +78,10 @@ function renderChart(indexName, data, chartCanvas) {
                     },
                     zoom: {
                         wheel: {
-                            enabled: true,
+                            enabled: true, // Re-enable mouse wheel zoom
                         },
                         pinch: {
-                            enabled: true
+                            enabled: true, // Re-enable pinch zoom
                         },
                         mode: 'xy',
                     }
