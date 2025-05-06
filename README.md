@@ -33,7 +33,11 @@ A simple web page that displays stock index data fetched from a `dump.csv` file.
 
 ## Bonus Opportunity - Relation to stockCharts
 
-The added features, such as interactive zoom/pan and the search functionality, align with the spirit of enhancing user interaction and data exploration, which is likely a goal of the `stockCharts` open-source project. While not directly integrated, these additions demonstrate an understanding of how to go beyond basic requirements to provide a more useful and engaging user experience for visualizing financial data.
+As part of exploring the bonus opportunity, I reviewed the [learnscriptingorg/stockCharts](https://github.com/learnscriptingorg/stockCharts) open-source project. It's evident that `stockCharts` is a more feature-rich library focused on providing advanced tools for financial data visualization.
+
+While this submission utilizes Chart.js for the core charting functionality due to the initial scope and ease of integration for this task, the added features like interactive zoom/pan and the search functionality for indices were implemented with the spirit of enhancing user interaction and data exploration – concepts that align with the likely goals of a project like `stockCharts`. These additions aim to provide a more dynamic and user-friendly experience beyond the basic charting requirement.
+
+Future enhancements could involve exploring the integration of libraries like `stockCharts` to leverage its more specialized financial charting capabilities.
 
 ## Libraries Used
 
